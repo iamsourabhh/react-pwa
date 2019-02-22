@@ -2,6 +2,9 @@
   "name": "react-pwa",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Sourabh Parmar"
+  },
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
